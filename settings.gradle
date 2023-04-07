@@ -1,0 +1,5 @@
+rootProject.name = "AndroidSubassembly"
+include ':app'
+include ':common'
+include ':account'
+include ':code'
